@@ -3,14 +3,14 @@ export default {
     target: 'static',
     // Global page headers: https://go.nuxtjs.dev/config-head
     head: {
-        title: 'HarambApe DAO - The protector of the blockchain',
+        title: 'HarambApe - The protector of the blockchain',
             htmlAttrs: {
             lang: 'en'
         },
         meta: [
             { charset: 'utf-8' },
             { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-            { hid: 'description', name: 'description', content: 'HarambApe DAO is the protector of the blockchain. The mission is to list and rank projects based on their legitimacy. HarambApe will also grant budget to projects to become more secure.' }
+            { hid: 'description', name: 'description', content: 'HarambApe is the protector of the blockchain. The mission is to list and rank projects based on their legitimacy.' }
         ],
         link: [
             { rel: 'icon', type: 'image/x-icon', href: '/favicon.png' },
